@@ -28,9 +28,12 @@ and the plan sharpens. Year two is where this compounds.
 
 ## How it works
 
-1. **Test.** Start with a $25 mail-in or home soil test so the fertilizer plan is
-   based on data, not guesses. (Bonus: in some states, including Michigan, you
-   legally cannot apply phosphorus without a soil test showing you need it.)
+1. **Test.** Start with a soil test so the fertilizer plan is based on data, not
+   guesses. I used the [MySoil test kit](https://www.amazon.com/dp/B084TSNR79)
+   (about $30): mail in a small sample, get back a full nutrient panel and
+   recommendations in roughly a week. A local university extension lab works too.
+   (Bonus: in some states, including Michigan, you legally cannot apply
+   phosphorus without a soil test showing you need it.)
 2. **Context.** Feed in your photos, your zone and grass type, your prior
    applications, and where the sun and wet spots are. The plan is only as good as
    what it knows about your yard.

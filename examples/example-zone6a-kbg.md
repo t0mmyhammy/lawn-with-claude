@@ -11,7 +11,8 @@ prescription, and always read the label.
 - Kentucky bluegrass. Condition: decent but thin in spots, some crabgrass history.
 - Irrigation: in-ground sprinklers. Program: hybrid (lean synthetic, open to
   organic). Buys at Costco + Home Depot, occasional local nursery.
-- Soil test (MSU Extension): pH 6.4, low phosphorus, potassium adequate.
+- Soil test ([MySoil kit](https://www.amazon.com/dp/B084TSNR79), ~$30): pH 6.4,
+  low phosphorus, potassium adequate.
 - Goal: thicker, kid-and-pet-friendly, a few hours a month.
 
 ## The number that anchors everything
